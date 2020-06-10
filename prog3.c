@@ -145,7 +145,7 @@ int main()
 	char production[10][20],Ind_prod[30][20],inputString[30];
 	int i,j,n_Ind=0,ch;
 	char t,T;
-	printf("\n Enter the number of production\n");
+	//printf("\n Enter the number of production\n");
 	n=2;
 	fflush(stdin);
 	for(i=0;i<n;i++)
